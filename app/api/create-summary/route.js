@@ -5,7 +5,6 @@ const { Pinecone: PineconeClient } = require('@pinecone-database/pinecone');
 
 export async function POST(req) {
   try {
-    // Extract the resume content from the request body
     const { resume } = await req.json();
 
     if (!resume) {
@@ -17,7 +16,6 @@ export async function POST(req) {
 
     const hf = new HfInference(process.env.HUGGINGFACE_API_KEY);
 
-    // Get embeddings from Hugging Face for the resume content
     const embeddingsResponse = await hf.featureExtraction({
       model: 'intfloat/multilingual-e5-large',
       inputs: resume,
@@ -32,14 +30,12 @@ export async function POST(req) {
       throw new Error('Unexpected embeddings format from Hugging Face API');
     }
 
-    // Check the vector size (assumed 1024)
     if (vector.length !== 1024) {
       throw new Error(`Vector dimension ${vector.length} does not match the dimension of the index 384`);
     }
 
     console.log('Processed vector:', vector);
 
-    // Initialize Pinecone and upsert the document embeddings
     const pinecone = new PineconeClient({ apiKey: process.env.PINECONE_API_KEY });
     const index = pinecone.Index('hackathon'); 
 
@@ -47,14 +43,14 @@ export async function POST(req) {
 
     console.log('Embeddings inserted into Pinecone');
 
-    // Generate a summary using OpenAI GPT model
     const systemPrompt = `
       You are an assistant that reads the content of a PDF document and summarizes it. Your task is to provide a clear and concise summary of the content of the document.
 
       Document: {{resume}}
 
-      Return the summary in plain text. Do not include any JSON format or additional formatting.
+      Return the summary in plain text. Do not include any JSON format or additional formatting. Just provide the summary in plain text.
     `;
+
 
     const prompt = systemPrompt.replace('{{resume}}', resume);
 
@@ -62,7 +58,6 @@ export async function POST(req) {
       apiKey: process.env.OPENAI_API_KEY,
     });
 
-    // Request summary from OpenAI
     const completion = await openai.chat.completions.create({
       model: 'gpt-3.5-turbo',
       messages: [
@@ -71,10 +66,8 @@ export async function POST(req) {
       temperature: 0.7,
     });
 
-    // Extract the summary from the completion response
     const summary = completion.choices[0]?.message?.content.trim();
 
-    // Return plain text response
     return NextResponse.json({ summary });
 
   } catch (error) {
@@ -85,4 +78,3 @@ export async function POST(req) {
     );
   }
 }
-
