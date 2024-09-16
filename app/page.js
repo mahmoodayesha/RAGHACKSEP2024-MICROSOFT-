@@ -132,6 +132,16 @@ export default function Home() {
         Start Your PDF Chat & Get Quick Results
       </Button>
     </Link>
+
+    <Link href="/summarize" passHref legacyBehavior>
+      <Button variant="contained" size="large" sx={{
+        backgroundColor: 'orange', color: 'white', textTransform: 'none', fontWeight: 'bold', borderRadius: '50px',
+        padding: '14px 40px', marginBottom: 2, marginRight: { xs: 0, sm: 2 }, boxShadow: '0 6px 20px rgba(0, 30, 99, 0.4)',
+        ':hover': { backgroundColor: 'skyblue', boxShadow: '0 8px 25px rgba(0, 30, 99, 0.6)' }
+      }}>
+        Summarize
+      </Button>
+    </Link>
   
   </Box>
 </Container>
