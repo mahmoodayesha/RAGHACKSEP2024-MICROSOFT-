@@ -70,6 +70,9 @@ export default function Chat() {
         { role: "assistant", content: `Summary: ${summary}` },
       ]);
 
+      const utterance = new SpeechSynthesisUtterance(`Summary: ${summary}`);
+      window.speechSynthesis.speak(utterance);
+
     } catch (error) {
       setMessages((prev) => [
         ...prev,
