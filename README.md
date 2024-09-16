@@ -6,10 +6,10 @@
 ---
 
 ## Why We Built This Solution: 
-We built this solution to address common challenges people face with large, complex documents 📑. Traditional search tools can be limiting and are often inaccessible for individuals with disabilities ♿. By integrating RAG and voice technology 🤖, we aimed to create an app that lets users interact with documents naturally, using conversation 💬.
+We built this solution to address common challenges people face with large, complex documents 📑. Traditional search tools can be limiting and are often inaccessible for individuals with disabilities . By integrating RAG and voice technology 🤖, we aimed to create an app that lets users interact with documents naturally, using conversation 💬.
 
 ### 🎯 Target Users: 
-- **Individuals with Visual Impairments or Learning Disabilities** 🧑‍🦯: Benefit from having documents read aloud and interacting using voice commands, promoting accessibility.
+- **Individuals with Visual Impairments or Learning Disabilities** : Benefit from having documents read aloud and interacting using voice commands, promoting accessibility.
 - **Business Professionals** 📊: Work with lengthy contracts, proposals, or reports and require a fast, accessible way to review documents.
 - **Multitaskers** 💼: Engage with documents hands-free, listening to summaries or searching documents while focusing on other tasks.
 - **Students and Researchers** 🧑‍🎓: Need to extract and interact with large volumes of information from academic PDFs, reports, or textbooks quickly.
@@ -27,7 +27,7 @@ The app combines **voice interaction** 🎙️ with **RAG technology** 🛠️ t
 ---
 
 ## Impact 🌍: 
-The app is set to transform how people engage with digital documents 🔄. By providing voice-driven summaries 🔊 and search 🔍, students, professionals, and individuals with accessibility needs can easily access key information without manually scrolling through long PDFs ⏳.
+The app is set to transform how people engage with digital documents . By providing voice-driven summaries 🔊 and search 🔍, students, professionals, and individuals with accessibility needs can easily access key information without manually scrolling through long PDFs ⏳.
 
 ---
 
