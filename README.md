@@ -53,7 +53,10 @@ The app is designed to be simple and accessible . Users upload a PDF, use voice 
 ![diag](https://github.com/user-attachments/assets/f6baa0b4-0e1a-498b-a4f3-76cc33948fac)
 
 ## User Interface of Web App
-/Users/ayeshamahmood/home1.png
-/Users/ayeshamahmood/home2.png
-/Users/ayeshamahmood/home3.png
-/Users/ayeshamahmood/home4.png
+![home1](https://github.com/user-attachments/assets/13a75dfc-8a04-4893-8381-c76844090eaa)
+![home2](https://github.com/user-attachments/assets/74b2023b-a96e-4f2e-9007-69c121747794)
+
+![home3](https://github.com/user-attachments/assets/cfccc703-b6e2-4944-a6e1-28c694bad17e)
+
+
+<img width="682" alt="home4" src="https://github.com/user-attachments/assets/7a6fdf96-d600-4dad-bb18-58697bada718">
