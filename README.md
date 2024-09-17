@@ -83,8 +83,8 @@ https://raghacksep-2024-microsoft.vercel.app
 <img width="587" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/f9a4707a-114b-4688-91e5-bc238b48a661">
 
 ## Meet The Team
-
-- **Ayesha *  
+![home3](https://github.com/user-attachments/assets/cfccc703-b6e2-4944-a6e1-28c694bad17e)
+- **Ayesha **
   GitHub: [mahmoodayesha](https://github.com/mahmoodayesha)
 
 - **Abdullah **  
