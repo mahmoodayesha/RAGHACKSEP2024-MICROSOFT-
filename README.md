@@ -2,6 +2,7 @@
 
 ## Solution Overview: 
 **Query PDF** is a voice-powered AI RAG (Retrieval-Augmented Generation) application 🎤 designed to simplify working with PDFs 📚. Users can upload documents and interact via voice commands 🗣️, receiving accurate summaries and real-time responses ⚡.
+<img width="715" alt="diagram" src="https://github.com/user-attachments/assets/ffbcc844-93f7-4283-b2e5-9c45901292fe">
 
 ---
 
