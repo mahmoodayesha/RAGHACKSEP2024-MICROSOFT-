@@ -64,24 +64,42 @@ The app is designed to be simple and accessible . Users upload a PDF, use voice 
 ---
 ## Youtube Link: 
 https://youtu.be/21Xy5TtXa4o
-
+---
 ## Live Website Demo:
 https://raghacksep-2024-microsoft.vercel.app
+---
+## App Overview
 
-## User Interface of Web App
-
+### 1. Landing Page
+The app begins with a **Landing Page** that welcomes users. To start using the app, click the **"Start to PDF Now"** button, which navigates you to the page where you can upload a PDF document.
 
 ![home1](https://github.com/user-attachments/assets/13a75dfc-8a04-4893-8381-c76844090eaa)
 
+### 2. Homepage Features
+On the homepage, users can explore the features app's three main features by clicking **"Features"** tab:
+- **PDF Summary**: Automatically generates a summary of the uploaded PDF.
+- **Ask Questions**: Allows users to ask specific questions about the PDF content.
+- **Voice Chat**: Engage in a voice-based conversation to send messages and interact with the PDF content.
 
 ![home2](https://github.com/user-attachments/assets/74b2023b-a96e-4f2e-9007-69c121747794)
 
+### 3. Meet the Team
+By clicking on the **"Meet the Team"** section from the homepage, users can view the GitHub repositories of the contributors involved in building the app.
 ![home3](https://github.com/user-attachments/assets/cfccc703-b6e2-4944-a6e1-28c694bad17e)
 
-<img width="682" alt="home4" src="https://github.com/user-attachments/assets/7a6fdf96-d600-4dad-bb18-58697bada718">
+### 4. Chatbot Interaction Sample
+Here’s an example of user interaction:
+- After clicking **"Start PDF Chat Now"**, the user uploads a PDF file.
+- The app generates a summary of the uploaded document (e.g., a hackathon PDF).
+- The user can then prompt the chatbot (e.g., **"When is submission due?""**), and the bot will scan the document to respond accordingly.
+  
 
 <img width="587" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/f9a4707a-114b-4688-91e5-bc238b48a661">
+By integrating RAG, this app ensures high-quality, context-aware interactions with PDF documents, enhancing the overall user experience.
 
+### 5. Additional Sample
+<img width="682" alt="home4" src="https://github.com/user-attachments/assets/7a6fdf96-d600-4dad-bb18-58697bada718">
+---
 ## Meet The Team
 ![home3](https://github.com/user-attachments/assets/cfccc703-b6e2-4944-a6e1-28c694bad17e)
 - **Ayesha **
