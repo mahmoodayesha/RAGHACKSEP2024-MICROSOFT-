@@ -62,7 +62,7 @@ The app is designed to be simple and accessible . Users upload a PDF, use voice 
 - OpenAI API Key
 
 ---
-## Youtube Link: 
+## Youtube Presentation Link: 
 https://youtu.be/21Xy5TtXa4o
 ---
 ## Live Website Demo:
