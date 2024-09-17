@@ -36,12 +36,24 @@ The app is designed to be simple and accessible . Users upload a PDF, use voice 
 
 ---
 
-## Solution Quality 🏆: 
-Built with advanced AI and RAG technology 🤖, the app ensures high-quality, accurate responses directly from the PDF 📋. This guarantees trust and reliability 🔒, especially for users seeking quick, accurate, and accessible information 🔍✅.
+
+## Technologies Used
+
+- Next.js
+- React
+- JavaScript
+- Hugging Face
+- Pinecone
+- OpenAI API Key
 
 ---
 
 
-## Diagram 🖼️:
+## Process Overflow:
 ![diag](https://github.com/user-attachments/assets/f6baa0b4-0e1a-498b-a4f3-76cc33948fac)
 
+## User Interface of Web App
+/Users/ayeshamahmood/home1.png
+/Users/ayeshamahmood/home2.png
+/Users/ayeshamahmood/home3.png
+/Users/ayeshamahmood/home4.png
