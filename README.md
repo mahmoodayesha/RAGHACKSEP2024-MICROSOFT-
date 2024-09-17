@@ -41,4 +41,7 @@ Built with advanced AI and RAG technology 🤖, the app ensures high-quality, ac
 
 ---
 
+
 ## Diagram 🖼️:
+![diag](https://github.com/user-attachments/assets/f6baa0b4-0e1a-498b-a4f3-76cc33948fac)
+
