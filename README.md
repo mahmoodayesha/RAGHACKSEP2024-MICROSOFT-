@@ -112,7 +112,7 @@ Here’s an example of user interaction:
 - **Abdullah K.**  
   GitHub: [abdullah-k18](https://github.com/abdullah-k18)
 
-## Further Research
+## Further Research🔍
 
 To enhance the app's effectiveness and inclusivity, additional research and development can focus on the following areas:
 
