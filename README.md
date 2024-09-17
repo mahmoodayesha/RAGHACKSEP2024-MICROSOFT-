@@ -2,6 +2,9 @@
 
 ## Solution Overview: 
 **Query PDF** is a voice-powered AI RAG (Retrieval-Augmented Generation) application 🎤 designed to simplify working with PDFs 📚. Users can upload documents and interact via voice commands 🗣️, receiving accurate summaries and real-time responses ⚡.
+
+## Process Overflow:
+
 <img width="715" alt="diagram" src="https://github.com/user-attachments/assets/ffbcc844-93f7-4283-b2e5-9c45901292fe">
 
 ---
@@ -65,15 +68,8 @@ https://youtu.be/21Xy5TtXa4o
 ## Live Website Demo:
 https://raghacksep-2024-microsoft.vercel.app
 
-
-
-## Process Overflow:
-![diag](https://github.com/user-attachments/assets/f6baa0b4-0e1a-498b-a4f3-76cc33948fac)
-
 ## User Interface of Web App
 
-<img width="682" alt="home4" src="https://github.com/user-attachments/assets/7a6fdf96-d600-4dad-bb18-58697bada718">
-<img width="587" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/f9a4707a-114b-4688-91e5-bc238b48a661">
 
 ![home1](https://github.com/user-attachments/assets/13a75dfc-8a04-4893-8381-c76844090eaa)
 
@@ -82,6 +78,17 @@ https://raghacksep-2024-microsoft.vercel.app
 
 ![home3](https://github.com/user-attachments/assets/cfccc703-b6e2-4944-a6e1-28c694bad17e)
 
+<img width="682" alt="home4" src="https://github.com/user-attachments/assets/7a6fdf96-d600-4dad-bb18-58697bada718">
+
+<img width="587" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/f9a4707a-114b-4688-91e5-bc238b48a661">
+
+## Meet The Team
+
+- **Ayesha *  
+  GitHub: [mahmoodayesha](https://github.com/mahmoodayesha)
+
+- **Abdullah **  
+  GitHub: [abdullah-k18](https://github.com/abdullah-k18)
 
 
 
