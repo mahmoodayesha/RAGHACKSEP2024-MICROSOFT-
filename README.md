@@ -91,7 +91,7 @@ By clicking on the **"Meet the Team"** section from the homepage, users can view
 Here’s an example of user interaction:
 - After clicking **"Start PDF Chat Now"**, the user uploads a PDF file.
 - The app generates a summary of the uploaded document (e.g., a hackathon PDF).
-- The user can then prompt the chatbot (e.g., **"When is submission due?""**), and the bot will scan the document to respond accordingly.
+- The user can then prompt the chatbot (e.g., **"When is submission due?"**), and the bot will scan the document to respond accordingly.
   
 
 <img width="587" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/f9a4707a-114b-4688-91e5-bc238b48a661">
