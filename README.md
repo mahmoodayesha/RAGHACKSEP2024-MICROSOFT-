@@ -58,6 +58,12 @@ The app is designed to be simple and accessible . Users upload a PDF, use voice 
 - OpenAI API Key
 
 ---
+## Youtube Link: 
+https://youtu.be/21Xy5TtXa4o
+
+## Live Website Demo:
+https://raghacksep-2024-microsoft.vercel.app
+
 
 
 ## Process Overflow:
@@ -73,11 +79,6 @@ The app is designed to be simple and accessible . Users upload a PDF, use voice 
 
 ![home3](https://github.com/user-attachments/assets/cfccc703-b6e2-4944-a6e1-28c694bad17e)
 
-## Youtube Link: 
-https://youtu.be/21Xy5TtXa4o
-
-## Live Website Demo:
-https://raghacksep-2024-microsoft.vercel.app
 
 
 
