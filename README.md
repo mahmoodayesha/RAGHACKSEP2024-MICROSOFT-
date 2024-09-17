@@ -72,12 +72,15 @@ https://raghacksep-2024-microsoft.vercel.app
 ## User Interface of Web App
 
 <img width="682" alt="home4" src="https://github.com/user-attachments/assets/7a6fdf96-d600-4dad-bb18-58697bada718">
+<img width="587" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/f9a4707a-114b-4688-91e5-bc238b48a661">
 
 ![home1](https://github.com/user-attachments/assets/13a75dfc-8a04-4893-8381-c76844090eaa)
+
 
 ![home2](https://github.com/user-attachments/assets/74b2023b-a96e-4f2e-9007-69c121747794)
 
 ![home3](https://github.com/user-attachments/assets/cfccc703-b6e2-4944-a6e1-28c694bad17e)
+
 
 
 
