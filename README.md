@@ -95,18 +95,23 @@ Here’s an example of user interaction:
   
 
 <img width="587" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/f9a4707a-114b-4688-91e5-bc238b48a661">
-By integrating RAG, this app ensures high-quality, context-aware interactions with PDF documents, enhancing the overall user experience.
+
+-By integrating RAG, this app ensures high-quality, context-aware interactions with PDF documents, enhancing the overall user experience.
 
 ### 5. Additional Sample
 <img width="682" alt="home4" src="https://github.com/user-attachments/assets/7a6fdf96-d600-4dad-bb18-58697bada718">
----
+
+
 ## Meet The Team
-![home3](https://github.com/user-attachments/assets/cfccc703-b6e2-4944-a6e1-28c694bad17e)
-- **Ayesha **
+
+![Team](https://github.com/user-attachments/assets/cfccc703-b6e2-4944-a6e1-28c694bad17e)
+
+- **Ayesha Adna Abdullah**  
   GitHub: [mahmoodayesha](https://github.com/mahmoodayesha)
 
-- **Abdullah **  
+- **Abdullah K.**  
   GitHub: [abdullah-k18](https://github.com/abdullah-k18)
+
 
 
 
